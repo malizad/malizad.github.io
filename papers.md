@@ -4,10 +4,9 @@ title: Papers
 ---
 
 ### Journal Papers
-You can have some old slides [here]({{ site.baseurl }}/assets/EEA.pdf), but JASSS is open source so just read the paper.  
-Code is [here](https://github.com/CarrKnight/MacroIIDiscrete).
+
 - **Generating Spatial Social Networks**<br>
-  *Computational and Mathematical Organization Theory* 
+  *Computational and Mathematical Organization Theory*   
   Meysam Alizadeh, Claudio Cioffi-Revilla
   Forthcoming.
 
