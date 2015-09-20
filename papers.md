@@ -5,7 +5,7 @@ title: Papers
 
 ## Journal Papers
 
-- Meysam Alizadeh, Claudio Cioffi-Revilla. Generating Spatial Social Networks. *Computational and Mathematical Organization Theory*  
+- Meysam Alizadeh, Claudio Cioffi-Revilla. **Generating Spatial Social Networks**. *Computational and Mathematical Organization Theory*  
   Forthcoming | [Code](https://github.com/malizad/Spatial_Networks)
 
 - Meysam Alizadeh, Claudio Cioffi-Revilla (2015) **Activation Regimes in Opinion Dynamics: Analyzing Asynchronous Updating Schemes**. *Journal of Artificial Societies and Social Simulation* 18 (3) 8.  
