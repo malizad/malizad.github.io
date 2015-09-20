@@ -3,7 +3,7 @@ layout: default
 title: Papers
 ---
 
-## Journal Papers
+### Journal Papers
 
 - Meysam Alizadeh, Claudio Cioffi-Revilla. **Generating Spatial Social Networks**. *Computational and Mathematical Organization Theory*  
   Forthcoming | [Code](https://github.com/malizad/Spatial_Networks)
@@ -28,23 +28,29 @@ title: Papers
 
 
 ### Conference Papers
-- Meysam Alizadeh, Claudio Cioffi-Revilla (2014) [Distributions of Opinion and Extremist Radicalization: Insights from Agent-Based Modeling](http://link.springer.com/chapter/10.1007/978-3-319-13734-6_26). In Proceedings of the 6th International Conference on Social Informatics, Barcelona, Spain, 10-13 November. 
+- Meysam Alizadeh, Claudio Cioffi-Revilla (2014) **Distributions of Opinion and Extremist Radicalization: Insights from Agent-Based Modeling**. In Proceedings of the *6th International Conference on Social Informatics*, Barcelona, Spain, 10-13 November.  
+[Link](http://link.springer.com/chapter/10.1007/978-3-319-13734-6_26) | PDF
 
-- Meysam Alizadeh, Michael Lewis, M Hossein Fazel Zarandi, Fariborz Joali (2011). [Determining Significant Parameters in the Design of ANFIS](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=5751958). Proceedings of 30th North American Fuzzy Information Processing Society Annual Conference, El Paso, TX, USA.
+- Meysam Alizadeh, Michael Lewis, M Hossein Fazel Zarandi, Fariborz Joali (2011). **Determining Significant Parameters in the Design of ANFIS**. Proceedings of *30th North American Fuzzy Information Processing Society Annual Conference*, El Paso, TX, USA.  
+[Link](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=5751958) | PDF
 
-- Meysam Alizadeh, Ehsan Safavieh, Elnaz Fotoohi, Vahid Roshanaei (2009). [Clustering based Fuzzy Particle Swarm Optimization](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=5156487). In Proceedings of 28th North American Fuzzy Information Processing Society Annual Conference, Cincinnati, OH, USA.
+- Meysam Alizadeh, Ehsan Safavieh, Elnaz Fotoohi, Vahid Roshanaei (2009). **Clustering based Fuzzy Particle Swarm Optimization**. In Proceedings of *28th North American Fuzzy Information Processing Society Annual Conference*, Cincinnati, OH, USA.  
+[Link](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=5156487) | PDF
 
-- Meysam Alizadeh, Roy Rada, Akram Khaleghi, Mir M. Seyed Esfahani (2009). [Forecasting Exchange Rates: A Neuro-Fuzzy Approach](http://www.eusflat.org/proceedings/IFSA-EUSFLAT_2009/pdf/tema_1745.pdf). In Proceedings of International Fuzzy Systems Association World Congress, Lisbon, Portugal.
+- Meysam Alizadeh, Roy Rada, Akram Khaleghi, Mir M. Seyed Esfahani (2009). **Forecasting Exchange Rates: A Neuro-Fuzzy Approach**. In Proceedings of *International Fuzzy Systems Association World Congress*, Lisbon, Portugal.  
+[PDF](http://www.eusflat.org/proceedings/IFSA-EUSFLAT_2009/pdf/tema_1745.pdf)
 
 
 ### Book Chapters
-- M. Hossein Fazel Zarandi, Milad Avazbeigi, Meysam Alizadeh (2012). [A Neuro-Fuzzy Expert System Trained by Particle Swarm Optimization for Stock Price Prediction](http://www.igi-global.com/chapter/content/62711). In: Cross-Disciplinary Applications of Artificial Intelligence and Pattern Recognition: Advancing Technologies, (Eds.) Vijay Kumar Mago and Nitin Bhatia. Information Science Reference, IGI Global.
+- M. Hossein Fazel Zarandi, Milad Avazbeigi, Meysam Alizadeh (2012). **A Neuro-Fuzzy Expert System Trained by Particle Swarm Optimization for Stock Price Prediction**. In: *Cross-Disciplinary Applications of Artificial Intelligence and Pattern Recognition: Advancing Technologies*, (Eds.) Vijay Kumar Mago and Nitin Bhatia. Information Science Reference, IGI Global.  
+[Link](http://www.igi-global.com/chapter/content/62711) | PDF
 
-- Meysam Alizadeh (2009) [Facility Location in Supply Chain](http://link.springer.com/chapter/10.1007/978-3-7908-2151-2_20). In: Facility Location: Concepts, Models, Algorithms and Case Studies, (Eds.) Reza Zanjirani Farahani and Masoud Hekmatfar. Physica-Verlag Heidelberg, Springer.
+- Meysam Alizadeh (2009) **Facility Location in Supply Chain**. In: *Facility Location: Concepts, Models, Algorithms and Case Studies*, (Eds.) Reza Zanjirani Farahani and Masoud Hekmatfar. Physica-Verlag Heidelberg, Springer.  
+[Link](http://link.springer.com/chapter/10.1007/978-3-7908-2151-2_20) | PDF
 
 
 ### Paper Under Review
-- Meysam Alizadeh, Claudio Cioffi-Revilla, Nauro Koizumi, Andrew Crooks, Jeremy Mayer. The Geography of Political Opinion Extremism in the United States. *Submitted to State Politics and Policy Quarterly*.
+- Meysam Alizadeh, Claudio Cioffi-Revilla, Nauro Koizumi, Andrew Crooks, Jeremy Mayer. **The Geography of Political Opinion Extremism in the United States**. Submitted to *State Politics and Policy Quarterly*.
 
 
 
