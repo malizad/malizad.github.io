@@ -11,8 +11,8 @@ title: Papers
 - Meysam Alizadeh, Claudio Cioffi-Revilla (2015) **Activation Regimes in Opinion Dynamics: Analyzing Asynchronous Updating Schemes**. *Journal of Artificial Societies and Social Simulation* 18 (3) 8.  
 [Link](http://jasss.soc.surrey.ac.uk/18/3/8.html) | [Code](https://github.com/malizad/ActivationRegimes_ABM)
 
-- Meysam Alizadeh, Claudio Cioffi-Revilla, and Andrew Crooks (2015) [The Effect of In-Group Favoritism on the Collective Behavior of Individuals’ Opinions](http://www.worldscientific.com/doi/abs/10.1142/S0219525915500022). Advances in Complex Systems, 18.  
-[Link](http://jasss.soc.surrey.ac.uk/17/4/4.html) | PDF
+- Meysam Alizadeh, Claudio Cioffi-Revilla, and Andrew Crooks (2015) **The Effect of In-Group Favoritism on the Collective Behavior of Individuals’ Opinions**. *Advances in Complex Systems*, 18.  
+[Link](http://www.worldscientific.com/doi/abs/10.1142/S0219525915500022) | PDF
 
 - Meysam Alizadeh, Alin Coman, Michael Lewis, Claudio Cioffi-Revilla (2014) **Intergroup Conflict Escalation Leads to more Extremism**. *Journal of Artificial Societies and Social Simulation* 17(4), 4.  
 [Link](http://jasss.soc.surrey.ac.uk/17/4/4.html) | [Code](https://github.com/malizad/InterGroup_Conflict_Opinion_ABM)
