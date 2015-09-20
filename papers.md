@@ -17,11 +17,14 @@ title: Papers
 - Meysam Alizadeh, Alin Coman, Michael Lewis, Claudio Cioffi-Revilla (2014) **Intergroup Conflict Escalation Leads to more Extremism**. *Journal of Artificial Societies and Social Simulation* 17(4), 4.  
 [Link](http://jasss.soc.surrey.ac.uk/17/4/4.html) | [Code](https://github.com/malizad/InterGroup_Conflict_Opinion_ABM)
 
-- Meysam Alizadeh, Fariborz Jolai, Majid Aminnayeri, Roy Rada (2012) [Comparison of different input selection algorithms in neuro-fuzzy modeling](http://www.sciencedirect.com/science/article/pii/S0957417411011602). Expert Systems with Applications 39(1), 1536-1544.
+- Meysam Alizadeh, Fariborz Jolai, Majid Aminnayeri, Roy Rada (2012) **Comparison of different input selection algorithms in neuro-fuzzy modeling**. *Expert Systems with Applications* 39(1), 1536-1544.  
+[Link](http://www.sciencedirect.com/science/article/pii/S0957417411011602) | PDF
 
-- Meysam Alizadeh, Roy Rada, Fariborz Jolai, Elnaz Fotoohi (2011) [An Adaptive Neuro-Fuzzy System for Stock Portfolio Analysis](http://onlinelibrary.wiley.com/doi/10.1002/int.20456/abstract). International Journal of Intelligent Systems 26 (2), 99-114.
+- Meysam Alizadeh, Roy Rada, Fariborz Jolai, Elnaz Fotoohi (2011) **An Adaptive Neuro-Fuzzy System for Stock Portfolio Analysis**. *International Journal of Intelligent Systems* 26 (2), 99-114.  
+[Link](http://onlinelibrary.wiley.com/doi/10.1002/int.20456/abstract) | PDF
 
-- Meysam Alizadeh, Mohsen Gharakhani, Elnaz Fotoohi, Roy Rada (2011) [Design and Analysis of Experiment in ANFIS Modelling for Stock Price Prediction](http://www.growingscience.com/ijiec/metadata/j.ijiec.2011.01.001.html). International Journal of Industrial Engineering and Computation 2(2), 409-418.
+- Meysam Alizadeh, Mohsen Gharakhani, Elnaz Fotoohi, Roy Rada (2011) **Design and Analysis of Experiment in ANFIS Modelling for Stock Price Prediction**. *International Journal of Industrial Engineering and Computation* 2(2), 409-418.  
+[Link](http://www.growingscience.com/ijiec/metadata/j.ijiec.2011.01.001.html) | PDF
 
 
 ### Conference Papers
