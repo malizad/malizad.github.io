@@ -13,13 +13,12 @@ My research interests focus broadly around opinion dynamics, radicalization, soc
 Address: Research Hall, Computational Social Science Suite, Level 3<br>
 4400 University Drive<br>
 Fairfax, VA 22030<br>
-Email: malizad2@gmu.edu
+Email: malizad2@gmu.edu<br>
+Phone: +(1) 443-255-8736
 
 [Google Scholar](https://scholar.google.com/citations?user=FyKst9AAAAAJ&hl=en) [Twitter](https://twitter.com/M_Aliizadeh)  [Github](https://github.com/malizad)  [LinkedIn](https://www.linkedin.com/in/malizadeh)  [ResearchGate](https://www.researchgate.net/profile/Meysam_Alizadeh)
 
-Phone: +(1) 443-255-8736
 
-[data](www.google.com) | [data](google.com)
 
 ### About This Site
 I built this site using [Ernesto Carrella](https://github.com/CarrKnight)'s Github repository. I thank him for making my life much easier.
