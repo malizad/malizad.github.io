@@ -15,9 +15,11 @@ Address: Research Hall, Computational Social Science Suite, Level 3<br>
 Fairfax, VA 22030<br>
 Email: malizad2@gmu.edu
 
-[Google Scholar](https://scholar.google.com/citations?user=FyKst9AAAAAJ&hl=en)| [Twitter](https://twitter.com/M_Aliizadeh)  [Github](https://github.com/malizad)  [LinkedIn](https://www.linkedin.com/in/malizadeh)  [ResearchGate](https://www.researchgate.net/profile/Meysam_Alizadeh)
+[Google Scholar](https://scholar.google.com/citations?user=FyKst9AAAAAJ&hl=en) [Twitter](https://twitter.com/M_Aliizadeh)  [Github](https://github.com/malizad)  [LinkedIn](https://www.linkedin.com/in/malizadeh)  [ResearchGate](https://www.researchgate.net/profile/Meysam_Alizadeh)
 
 Phone: +(1) 443-255-8736
+
+[data](www.google.com) | [data](google.com)
 
 ### About This Site
 I built this site using [Ernesto Carrella](https://github.com/CarrKnight)'s Github repository. I thank him for making my life much easier.
