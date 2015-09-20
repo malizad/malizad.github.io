@@ -16,7 +16,7 @@ Fairfax, VA 22030<br>
 Email: malizad2@gmu.edu<br>
 Phone: +(1) 443-255-8736
 
-[Google Scholar](https://scholar.google.com/citations?user=FyKst9AAAAAJ&hl=en)    [Twitter](https://twitter.com/M_Aliizadeh)  [Github](https://github.com/malizad)    [LinkedIn](https://www.linkedin.com/in/malizadeh)     [ResearchGate](https://www.researchgate.net/profile/Meysam_Alizadeh)
+[Google Scholar](https://scholar.google.com/citations?user=FyKst9AAAAAJ&hl=en) -    [Twitter](https://twitter.com/M_Aliizadeh) - [Github](https://github.com/malizad) -  [LinkedIn](https://www.linkedin.com/in/malizadeh) - [ResearchGate](https://www.researchgate.net/profile/Meysam_Alizadeh)
 
 
 
