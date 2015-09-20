@@ -8,8 +8,8 @@ title: Papers
 <div class="span8">
     <h4><i class="fa fa-file-text-o"></i> Birds of the Same Feather Tweet Together. Bayesian Ideal Point Estimation Using Twitter Data. </h4>
     <em>Political Analysis</em>, 2015, 23 (1), 76-91
-    <p><a href="http://pan.oxfordjournals.org/content/23/1/76.full">Link</a> | <a href="http://www.pablobarbera.com/static/barbera_twitter_ideal_points.pdf">Pre-print</a> | <a href="http://www.pablobarbera.com/static/supplementary_materials.pdf">Online appendix</a> | <a href="http://dx.doi.org/10.7910/DVN/26589">Replication materials</a> | <a href="https://github.com/pablobarbera/twitter_ideology">GitHub tutorial</a> | <a data-toggle='collapse' data-target='#birds'>
-            </div><!--/span-->
+    <p><a href="http://pan.oxfordjournals.org/content/23/1/76.full">Link</a> | <a href="http://www.pablobarbera.com/static/barbera_twitter_ideal_points.pdf">Pre-print</a> | <a href="http://www.pablobarbera.com/static/supplementary_materials.pdf">Online appendix</a> | <a href="http://dx.doi.org/10.7910/DVN/26589">Replication materials</a> | <a href="https://github.com/pablobarbera/twitter_ideology">GitHub tutorial</a> | <a data-toggle='collapse' data-target='#birds'> </div></p>
+    </div><!--/span-->
 
 - ### Generating Spatial Social Networks<br>  
   *Computational and Mathematical Organization Theory*   
