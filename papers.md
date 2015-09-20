@@ -5,19 +5,11 @@ title: Papers
 
 ## Journal Papers
 
-- ## Generating Spatial Social Networks**<br>
+- ### Generating Spatial Social Networks  
   *Computational and Mathematical Organization Theory*   
   Meysam Alizadeh, Claudio Cioffi-Revilla
   Forthcoming.
-'''html
-<div class="row">
 
-            <div class="span8">
-              <h4><i class="fa fa-file-text-o"></i> Tweeting from Left to Right: Is Online Political Communication More Than an Echo Chamber?</h4>
-              Forthcoming in <em>Psychological Science</em>.</br>Co-authored with John T. Jost, Jonathan Nagler, Joshua Tucker, and Richard Bonneau.
-              <p><a href="http://pss.sagepub.com/cgi/content/long/0956797615594620v1">Link</a> | <a href="http://www.pablobarbera.com/static/PSS-supplementary-materials.pdf">Online appendix</a> | <a href="http://www.github.com/SMAPPNYU/echo_chambers">Replication materials</a> and <a href="http://dx.doi.org/10.7910/DVN/F9ICHH">data</a> | <a data-toggle='collapse' data-target='#lefttoright'>Expand abstract »</a><div id='lefttoright' class='collapse out'> We estimated ideological preferences of 3.8 million Twitter users and, using a dataset of 150 million tweets concerning 12 political and non-political issues, explored whether online communication resembles an "echo chamber" due to selective exposure and ideological segregation or a "national conversation." We observed that information was exchanged primarily among individuals with similar ideological preferences for political issues (e.g., presidential election, government shutdown) but not for many other current events (e.g., Boston marathon bombing, Super Bowl). Discussion of the Newtown shootings in 2012 reflected a dynamic process, beginning as a "national conversation" before being transformed into a polarized exchange. With respect to political and non-political issues, liberals were more likely than conservatives to engage in cross-ideological dissemination, highlighting an important asymmetry with respect to the structure of communication that is consistent with psychological theory and research. We conclude that previous work may have overestimated the degree of ideological segregation in social media usage. </div></p>
-            </div><!--/span-->
- '''
 
 - Meysam Alizadeh, Claudio Cioffi-Revilla (2015) [Activation Regimes in Opinion Dynamics: Analyzing Asynchronous Updating Schemes](http://jasss.soc.surrey.ac.uk/18/3/8.html). Journal of Artificial Societies and Social Simulation 18 (3) 8.
 
