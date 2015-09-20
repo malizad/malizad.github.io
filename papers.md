@@ -5,7 +5,7 @@ title: Papers
 
 ## Journal Papers
 
-- **Generating Spatial Social Networks**<br>  
+- **Generating Spatial Social Networks**<br>
   *Computational and Mathematical Organization Theory*   
   Meysam Alizadeh, Claudio Cioffi-Revilla
   Forthcoming | [link](google.com) | [data](google.com)
