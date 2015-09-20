@@ -5,17 +5,10 @@ title: Papers
 
 ## Journal Papers
 
-<div class="span8">
-    <h4> Generating Spatial Social Networks </h4>
-    <em>Political Analysis</em>, 2015, 23 (1), 76-91
-</div></p>
-
-
-- Generating Spatial Social Networks<br>  
+- **Generating Spatial Social Networks**<br>  
   *Computational and Mathematical Organization Theory*   
   Meysam Alizadeh, Claudio Cioffi-Revilla
-  Forthcoming.
-  [link](google.com) | [data](google.com)
+  Forthcoming | [link](google.com) | [data](google.com)
 
 - Meysam Alizadeh, Claudio Cioffi-Revilla (2015) [Activation Regimes in Opinion Dynamics: Analyzing Asynchronous Updating Schemes](http://jasss.soc.surrey.ac.uk/18/3/8.html). Journal of Artificial Societies and Social Simulation 18 (3) 8.
 
