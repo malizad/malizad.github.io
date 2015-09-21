@@ -24,14 +24,7 @@ Phone: +(1) 443-255-8736
     <p><i class="fa fa-github"></i> <a href="http://www.github.com/malizad/">malizad</a> </p>  
     <p><i class="fa fa-google"></i> <a href="https://scholar.google.com/citations?user=FyKst9AAAAAJ&hl=en">Google Scholar</a> </p>
     <p><i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/malizadeh">malizadeh</a> </p>
+    <p><i class="fa fa-researchgate"></i> <a href="https://www.researchgate.net/profile/Meysam_Alizadeh">Meysam_Alizadeh</a> </p>
 </div><!--bio-->
-    
 
-
-[LinkedIn](https://www.linkedin.com/in/malizadeh) - [ResearchGate](https://www.researchgate.net/profile/Meysam_Alizadeh)
-
-
-
-### About This Site
-I built this site using [Ernesto Carrella](https://github.com/CarrKnight)'s Github repository. I thank him for making my life much easier.
     
