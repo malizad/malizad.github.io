@@ -13,17 +13,17 @@ My research interests focus broadly around opinion dynamics, radicalization, soc
 Research Hall, Computational Social Science Suite, Level 3<br>
 4400 University Drive<br>
 Fairfax, VA 22030<br>
-Email: malizad2@gmu.edu<br>
+
+<p><a href="mailto:malizad2[at]gmu.edu">malizad2@gmu.edu</a><br>
+
 Phone: +(1) 443-255-8736
 
-<link href="http://pablobarbera.com/css/bootstrap.css" rel="stylesheet">
 <link rel="shortcut icon" href="http://pablobarbera.com/img/favicon.ico">
 <link rel="stylesheet" href="http://pablobarbera.com/font-awesome-4.1.0/css/font-awesome.min.css">
 <div class="bio">
-    <p><a href="mailto:malizad2[at]gmu.edu">malizad2@gmu.edu</a> <i class="icon-envelope"></i></p>  
-    <p><a href="http://www.twitter.com/M_Aliizadeh/">@M_Aliizadeh</a> <i class="fa fa-twitter"></i></p>  
-    <p><a href="http://www.github.com/malizad/">malizad</a> <i class="fa fa-github"></i></p>  
-    <p><a href="https://scholar.google.com/citations?user=FyKst9AAAAAJ&hl=en">Google Scholar</a> <i class="fa fa-google"></i></p>  
+    <p><i class="fa fa-twitter"></i> <a href="http://www.twitter.com/M_Aliizadeh/">@M_Aliizadeh</a> </p>  
+    <p><i class="fa fa-github"></i> <a href="http://www.github.com/malizad/">malizad</a> </p>  
+    <p><i class="fa fa-google"></i> <a href="https://scholar.google.com/citations?user=FyKst9AAAAAJ&hl=en">Google Scholar</a> </p>  
 </div><!--bio-->
     
 
