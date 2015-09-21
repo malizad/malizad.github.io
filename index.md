@@ -16,10 +16,6 @@ Fairfax, VA 22030<br>
 Email: malizad2@gmu.edu<br>
 Phone: +(1) 443-255-8736
 
-<link href="http://pablobarbera.com/css/bootstrap.css" rel="stylesheet">
-<link href="http://pablobarbera.com/css/style.css" rel="stylesheet" media="screen">
-<link href="http://pablobarbera.com/css/myresume.css" rel="stylesheet">
-<link rel="shortcut icon" href="http://pablobarbera.com/img/favicon.ico">
 <link rel="stylesheet" href="http://pablobarbera.com/font-awesome-4.1.0/css/font-awesome.min.css">
 <div class="bio">
     <p><a href="mailto:malizad2[at]gmu.edu">malizad2@gmu.edu</a> <i class="icon-envelope"></i></p>  
