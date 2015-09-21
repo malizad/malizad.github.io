@@ -13,7 +13,6 @@ My research interests focus broadly around opinion dynamics, radicalization, soc
 Research Hall, Computational Social Science Suite, Level 3<br>
 4400 University Drive<br>
 Fairfax, VA 22030<br>
-
 <p><a href="mailto:malizad2[at]gmu.edu">malizad2@gmu.edu</a><br>
 
 Phone: +(1) 443-255-8736
@@ -23,11 +22,13 @@ Phone: +(1) 443-255-8736
 <div class="bio">
     <p><i class="fa fa-twitter"></i> <a href="http://www.twitter.com/M_Aliizadeh/">@M_Aliizadeh</a> </p>  
     <p><i class="fa fa-github"></i> <a href="http://www.github.com/malizad/">malizad</a> </p>  
-    <p><i class="fa fa-google"></i> <a href="https://scholar.google.com/citations?user=FyKst9AAAAAJ&hl=en">Google Scholar</a> </p>  
+    <p><i class="fa fa-google"></i> <a href="https://scholar.google.com/citations?user=FyKst9AAAAAJ&hl=en">Google Scholar</a> </p>
+    <p><i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/malizadeh">malizadeh</a> </p>
 </div><!--bio-->
     
 
-[Google Scholar](https://scholar.google.com/citations?user=FyKst9AAAAAJ&hl=en) -    [Twitter](https://twitter.com/M_Aliizadeh) - [Github](https://github.com/malizad) -  [LinkedIn](https://www.linkedin.com/in/malizadeh) - [ResearchGate](https://www.researchgate.net/profile/Meysam_Alizadeh)
+
+[LinkedIn](https://www.linkedin.com/in/malizadeh) - [ResearchGate](https://www.researchgate.net/profile/Meysam_Alizadeh)
 
 
 
