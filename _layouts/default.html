@@ -11,19 +11,6 @@
     <link rel="stylesheet" href="{{ site.baseurl }}/css/pure.css">
     <link rel="stylesheet" href="{{ site.baseurl }}/css/blog.css">
     <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css">
-    <!-- Le styles -->
-    <link href="http://pablobarbera.com/css/bootstrap.css" rel="stylesheet">
-    <link href="http://pablobarbera.com/css/style.css" rel="stylesheet" media="screen">
-    <link href="http://pablobarbera.com/css/myresume.css" rel="stylesheet">
-
-    <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
-    <!--[if lt IE 9]>
-      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-
-    <!-- Le fav and touch icons -->
-    <link rel="shortcut icon" href="http://pablobarbera.com/img/favicon.ico">
-    <link rel="stylesheet" href="http://pablobarbera.com/font-awesome-4.1.0/css/font-awesome.min.css">
 
     <!-- mathjax config similar to math.stackexchange -->
 <script type="text/x-mathjax-config">
@@ -47,8 +34,10 @@ MathJax.Hub.Config({
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
   ga('create', 'UA-58894263-1', 'auto');
   ga('send', 'pageview');
+
 </script>
 
 </head>
@@ -56,26 +45,17 @@ MathJax.Hub.Config({
 <body class ="pure-skin-carrknight">
 
 <header>
-	{% include nav.html %}
+		{% include nav.html %}
 </header>
 
 <div class="pure-g-r" id="layout">
+
     <div class="sidebar pure-u">
         <header class="header">
             <hgroup>
-            	<div class="avatar">
-            	<img src="https://cloud.githubusercontent.com/assets/5666406/9981239/9450c7f0-5f85-11e5-9a2b-0d8c3f14bc98.jpg" />
-            	</div><!--/avatar -->
-          	<div align="center">
-                <div class="bio">
-                	<h1>{{ site.name }}</h1>
-               	<p>Phd Candidate in CSS </br> George Mason University</p>
-               	<p><a href="mailto:malizad2[at]gmu.edu">malizad2@gmu.edu</a> <i class="icon-envelope"></i></p>  
-                <p><a href="http://www.twitter.com/M_Aliizadeh/">@M_Aliizadeh</a> <i class="fa fa-twitter"></i></p>  
-                <p><a href="http://www.github.com/malizad/">malizad</a> <i class="fa fa-github"></i></p>  
-                <p><a href="https://scholar.google.com/citations?user=FyKst9AAAAAJ&hl=en">Google Scholar</a> <i class="fa fa-google"></i></p>  
-		</div><!--bio-->
-		</div><!--center-->
+                <h1 class="brand-title">{{ site.name }}</h1>
+                <h2 class="brand-tagline">{{ page.title }}</h2>
+
             </hgroup>
         </header>
     </div>
