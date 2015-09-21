@@ -23,7 +23,7 @@ Phone: +(1) 443-255-8736
 <div class="bio">
     <p><i class="fa fa-twitter"></i> <a href="http://www.twitter.com/M_Aliizadeh/">@M_Aliizadeh</a> </p>  
     <p><i class="fa fa-github"></i> <a href="http://www.github.com/malizad/">malizad</a> </p>  
-    <p><i class="ai ai-google-scholar-square fa-3x"></i> <a href="https://scholar.google.com/citations?user=FyKst9AAAAAJ&hl=en">Google Scholar</a> </p>
+    <p><i class="fa fa-googlescholar"></i> <a href="https://scholar.google.com/citations?user=FyKst9AAAAAJ&hl=en">Google Scholar</a> </p>
     <p><i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/malizadeh">malizadeh</a> </p>
     <p><i class="fa fa-researchgate"></i> <a href="https://www.researchgate.net/profile/Meysam_Alizadeh">Meysam_Alizadeh</a> </p>
 </div><!--bio-->
