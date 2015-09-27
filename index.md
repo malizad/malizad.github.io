@@ -27,4 +27,6 @@ Phone: +(1) 443-255-8736
     <p><i class="fa fa-linkedin-square"></i> <a href="https://www.linkedin.com/in/malizadeh">malizadeh</a> </p>
 </div>
 
-    
+<a class="twitter-timeline" href="https://twitter.com/p_barbera" data-widget-id="488027846829305856">Tweets by @M_Aliizadeh</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
