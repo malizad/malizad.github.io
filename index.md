@@ -21,7 +21,7 @@ Phone: +(1) 443-255-8736
 <link rel="stylesheet" href="http://pablobarbera.com/font-awesome-4.1.0/css/font-awesome.min.css">
 <link rel="stylesheet" href="https://github.com/jpswalsh/academicons/blob/master/academicons_v1.5/academicons.css" />
 <div class="col-wrapper">
-    <div class="col col-670">
+    <div class="col col-370">
         <div class="bio">
         <p><i class="fa fa-twitter"></i> <a href="http://www.twitter.com/M_Aliizadeh/">@M_Aliizadeh</a> </p>  
         <p><i class="fa fa-github"></i> <a href="http://www.github.com/malizad/">malizad</a> </p>  
@@ -30,7 +30,7 @@ Phone: +(1) 443-255-8736
         </div>
     </div>
 
-<div class="col col-250">
+<div class="col col-550">
     <a class="twitter-timeline" href="https://twitter.com/M_Aliizadeh" data-widget-id="648084562627661824">Tweets by @M_Aliizadeh</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
     </div>
