@@ -20,6 +20,7 @@ Phone: +(1) 443-255-8736
 <link rel="shortcut icon" href="http://pablobarbera.com/img/favicon.ico">
 <link rel="stylesheet" href="http://pablobarbera.com/font-awesome-4.1.0/css/font-awesome.min.css">
 <link rel="stylesheet" href="https://github.com/jpswalsh/academicons/blob/master/academicons_v1.5/academicons.css" />
+
 <div class="grid">
     <div class="col-1-2">
             <div class="content">
