@@ -29,7 +29,7 @@ title: Publications
 
 ### Conference Papers
 - Meysam Alizadeh, Claudio Cioffi-Revilla (2014) **Distributions of Opinion and Extremist Radicalization: Insights from Agent-Based Modeling**. In Proceedings of the *6th International Conference on Social Informatics*, Barcelona, Spain, 10-13 November.  
-[Link](http://link.springer.com/chapter/10.1007/978-3-319-13734-6_26) | PDF
+[Link](http://link.springer.com/chapter/10.1007/978-3-319-13734-6_26) | [PDF](https://drive.google.com/file/d/0B2bu9Ts8BcySSlR6VTRVMUpDQ3M/view?usp=sharing)
 
 - Meysam Alizadeh, Michael Lewis, M Hossein Fazel Zarandi, Fariborz Joali (2011). **Determining Significant Parameters in the Design of ANFIS**. Proceedings of *30th North American Fuzzy Information Processing Society Annual Conference*, El Paso, TX, USA.  
 [Link](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=5751958) | PDF
