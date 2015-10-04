@@ -21,10 +21,10 @@ title: Publications
 [Link](http://www.sciencedirect.com/science/article/pii/S0957417411011602) | PDF
 
 - Meysam Alizadeh, Roy Rada, Fariborz Jolai, Elnaz Fotoohi (2011) **An Adaptive Neuro-Fuzzy System for Stock Portfolio Analysis**. *International Journal of Intelligent Systems* 26 (2), 99-114.  
-[Link](http://onlinelibrary.wiley.com/doi/10.1002/int.20456/abstract) | PDF
+[Link](http://onlinelibrary.wiley.com/doi/10.1002/int.20456/abstract) | [PDF](https://drive.google.com/file/d/0B2bu9Ts8BcyScUw5ZmVtbVVqLXM/view?usp=sharing)
 
 - Meysam Alizadeh, Mohsen Gharakhani, Elnaz Fotoohi, Roy Rada (2011) **Design and Analysis of Experiment in ANFIS Modelling for Stock Price Prediction**. *International Journal of Industrial Engineering and Computation* 2(2), 409-418.  
-[Link](http://www.growingscience.com/ijiec/metadata/j.ijiec.2011.01.001.html) | PDF
+[Link](http://www.growingscience.com/ijiec/metadata/j.ijiec.2011.01.001.html) | [PDF](https://drive.google.com/file/d/0B2bu9Ts8BcySWm41Q1BWVG81cms/view?usp=sharing)
 
 
 ### Conference Papers
@@ -32,10 +32,10 @@ title: Publications
 [Link](http://link.springer.com/chapter/10.1007/978-3-319-13734-6_26) | [PDF](https://drive.google.com/file/d/0B2bu9Ts8BcySSlR6VTRVMUpDQ3M/view?usp=sharing)
 
 - Meysam Alizadeh, Michael Lewis, M Hossein Fazel Zarandi, Fariborz Joali (2011). **Determining Significant Parameters in the Design of ANFIS**. Proceedings of *30th North American Fuzzy Information Processing Society Annual Conference*, El Paso, TX, USA.  
-[Link](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=5751958) | PDF
+[Link](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=5751958) | [PDF](https://drive.google.com/file/d/0B2bu9Ts8BcySR3YxYjduVHduTWM/view?usp=sharing)
 
 - Meysam Alizadeh, Ehsan Safavieh, Elnaz Fotoohi, Vahid Roshanaei (2009). **Clustering based Fuzzy Particle Swarm Optimization**. In Proceedings of *28th North American Fuzzy Information Processing Society Annual Conference*, Cincinnati, OH, USA.  
-[Link](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=5156487) | PDF
+[Link](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=5156487) | [PDF](https://drive.google.com/file/d/0B2bu9Ts8BcySUUhUTzcwNy05SzQ/view?usp=sharing)
 
 - Meysam Alizadeh, Roy Rada, Akram Khaleghi, Mir M. Seyed Esfahani (2009). **Forecasting Exchange Rates: A Neuro-Fuzzy Approach**. In Proceedings of *International Fuzzy Systems Association World Congress*, Lisbon, Portugal.  
 [PDF](http://www.eusflat.org/proceedings/IFSA-EUSFLAT_2009/pdf/tema_1745.pdf)
@@ -43,10 +43,10 @@ title: Publications
 
 ### Book Chapters
 - M. Hossein Fazel Zarandi, Milad Avazbeigi, Meysam Alizadeh (2012). **A Neuro-Fuzzy Expert System Trained by Particle Swarm Optimization for Stock Price Prediction**. In: *Cross-Disciplinary Applications of Artificial Intelligence and Pattern Recognition: Advancing Technologies*, (Eds.) Vijay Kumar Mago and Nitin Bhatia. Information Science Reference, IGI Global.  
-[Link](http://www.igi-global.com/chapter/content/62711) | PDF
+[Link](http://www.igi-global.com/chapter/content/62711) | [PDF](https://drive.google.com/file/d/0B2bu9Ts8BcySdXRWU3hDY3BaaGc/view?usp=sharing)
 
 - Meysam Alizadeh (2009) **Facility Location in Supply Chain**. In: *Facility Location: Concepts, Models, Algorithms and Case Studies*, (Eds.) Reza Zanjirani Farahani and Masoud Hekmatfar. Physica-Verlag Heidelberg, Springer.  
-[Link](http://link.springer.com/chapter/10.1007/978-3-7908-2151-2_20) | PDF
+[Link](http://link.springer.com/chapter/10.1007/978-3-7908-2151-2_20) | [PDF](https://drive.google.com/file/d/0B2bu9Ts8BcySM21HRXd2Rng0NE0/view?usp=sharing)
 
 
 ### Paper Under Review
