@@ -27,6 +27,10 @@ title: Publications
 [Link](http://www.growingscience.com/ijiec/metadata/j.ijiec.2011.01.001.html) | [PDF](https://drive.google.com/file/d/0B2bu9Ts8BcySWm41Q1BWVG81cms/view?usp=sharing)
 
 
+### Paper Under Review
+- Meysam Alizadeh, Claudio Cioffi-Revilla, Nauro Koizumi, Andrew Crooks, Jeremy Mayer. **The Geography of Political Opinion Extremism in the United States**. Submitted to *State Politics and Policy Quarterly*.
+- 
+
 ### Conference Papers
 - Meysam Alizadeh, Claudio Cioffi-Revilla (2014) **Distributions of Opinion and Extremist Radicalization: Insights from Agent-Based Modeling**. In Proceedings of the *6th International Conference on Social Informatics*, Barcelona, Spain, 10-13 November.  
 [Link](http://link.springer.com/chapter/10.1007/978-3-319-13734-6_26) | [PDF](https://drive.google.com/file/d/0B2bu9Ts8BcySSlR6VTRVMUpDQ3M/view?usp=sharing)
@@ -48,9 +52,6 @@ title: Publications
 - Meysam Alizadeh (2009) **Facility Location in Supply Chain**. In: *Facility Location: Concepts, Models, Algorithms and Case Studies*, (Eds.) Reza Zanjirani Farahani and Masoud Hekmatfar. Physica-Verlag Heidelberg, Springer.  
 [Link](http://link.springer.com/chapter/10.1007/978-3-7908-2151-2_20) | [PDF](https://drive.google.com/file/d/0B2bu9Ts8BcySM21HRXd2Rng0NE0/view?usp=sharing)
 
-
-### Paper Under Review
-- Meysam Alizadeh, Claudio Cioffi-Revilla, Nauro Koizumi, Andrew Crooks, Jeremy Mayer. **The Geography of Political Opinion Extremism in the United States**. Submitted to *State Politics and Policy Quarterly*.
 
 
 
