@@ -29,7 +29,7 @@ title: Publications
 
 ### Paper Under Review
 - Meysam Alizadeh, Claudio Cioffi-Revilla, Nauro Koizumi, Andrew Crooks, Jeremy Mayer. **The Geography of Political Opinion Extremism in the United States**. Submitted to *State Politics and Policy Quarterly*.
-- 
+
 
 ### Conference Papers
 - Meysam Alizadeh, Claudio Cioffi-Revilla (2014) **Distributions of Opinion and Extremist Radicalization: Insights from Agent-Based Modeling**. In Proceedings of the *6th International Conference on Social Informatics*, Barcelona, Spain, 10-13 November.  
