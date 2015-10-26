@@ -2,6 +2,6 @@ name: Meysam Alizadeh
 markdown: kramdown
 highlighter: pygments
 baseurl:  
-timezone: America/Chicago
+timezone: America/New York
 description: Personal Page
 url: malizad.github.io
