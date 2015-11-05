@@ -14,13 +14,13 @@ those by Muslim Jihadists. Counter-terrorism strategies demand more systematic s
 extremists, important policy issues related to it, and ways to address those policy issues by using innovative
 approaches. I am collaborating with Professor Michael Macy from Cornell University, Dr. Ingmar Weber from Qatar Computing Research Institute, and Professor Claudio Cioffi-Revilla from George Mason University to identify active online individual extremists in the US and characterize the psychological and personality correlates of them using language expressed on Twitter. Our list of psychological features includes social relationships, disengagement, emotions, psychological engagement, anxiety, and anger. Moreover, we seek to develop a data-driven extremism lexicon that can be used in future research to identify individual extremists based on the content they post on Twitter.
 
+
 <div class="avatar">
             <img src="https://cloud.githubusercontent.com/assets/5666406/10962975/719028e2-836a-11e5-8457-3dc1a2ed6120.png" />
-            <div align="center">
 </div><!--/avatar -->
+
+
             
-
-
 ### Spatial Social Networks
 
 While the importance of spatial proximity encourages us to consider the geographical properties of the individuals into the models, the availability of geo-coded data from social media enables us to validate the results of our computational models. Hence, incorporating the geographical properties of the agents into computational models of social behavior is a promising extension which helps us to analyze the spatial correlates of a given complex behavior. Co-authored with Professor Claudio Cioffi-Revilla and Dr. Andrew Crooks from George Mason University, I have proposed a spatial version of the three well-known network model including the Erdos-Renyi, Watts-Strogatz, and Barabasi-Albert. This project is trying to build a foundation for developing more spatially explicit agent-based models of social applications.
