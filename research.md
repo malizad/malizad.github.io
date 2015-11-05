@@ -11,7 +11,7 @@ My research goal is to combine the three major sub-fields of the Computational S
 Since September 11, terrorist attacks by US domestic extremists have killed nearly twice as many people as 
 those by Muslim Jihadists. Counter-terrorism strategies demand more systematic study of the these homegrown 
 extremists, important policy issues related to it, and ways to address those policy issues by using innovative
-approaches. I am collaborating with Professor Michael Macy from Cornell University and Dr.Ingmar Weber from Qatar Computing Research Institute on identifying and characterizing US domestic ideological extremists on Twitter.
+approaches. I am collaborating with Professor Michael Macy from Cornell University and Dr. Ingmar Weber from Qatar Computing Research Institute on identifying and characterizing US domestic ideological extremists on Twitter.
 
 
 ### Spatial Social Networks
