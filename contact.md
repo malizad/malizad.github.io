@@ -1,3 +1,8 @@
+---
+layout: default
+title: Contact me
+---
+
 ### Contact
 Research Hall, Computational Social Science Suite, Level 3<br>
 4400 University Drive<br>
