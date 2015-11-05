@@ -15,7 +15,7 @@ extremists, important policy issues related to it, and ways to address those pol
 approaches. I am collaborating with Professor Michael Macy from Cornell University, Dr. Ingmar Weber from Qatar Computing Research Institute, and Professor Claudio Cioffi-Revilla from George Mason University to identify active online individual extremists in the US and characterize the psychological and personality correlates of them using language expressed on Twitter. Our list of psychological features includes social relationships, disengagement, emotions, psychological engagement, anxiety, and anger. Moreover, we seek to develop a data-driven extremism lexicon that can be used in future research to identify individual extremists based on the content they post on Twitter.
 
 <div class="avatar">
-            	<img src="https://cloud.githubusercontent.com/assets/5666406/10961777/2287de8e-8360-11e5-8c1a-634e8a23b7ca.png" />
+            	<img src="https://cloud.githubusercontent.com/assets/5666406/10962975/719028e2-836a-11e5-8457-3dc1a2ed6120.png" />
             	</div><!--/avatar -->
             	<div align="center">
 
