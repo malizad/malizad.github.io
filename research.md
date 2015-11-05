@@ -12,7 +12,7 @@ My research goal is to combine the three major sub-fields of the Computational S
 Since September 11, terrorist attacks by US domestic extremists have killed nearly twice as many people as 
 those by Muslim Jihadists. Counter-terrorism strategies demand more systematic study of the these homegrown 
 extremists, important policy issues related to it, and ways to address those policy issues by using innovative
-approaches. I am collaborating with Professor Michael Macy from Cornell University, Dr. Ingmar Weber from Qatar Computing Research Institute, and Professor Claudio Cioffi-Revilla from George Mason University on identifying and characterizing US domestic ideological extremists on Twitter.
+approaches. I am collaborating with Professor Michael Macy from Cornell University, Dr. Ingmar Weber from Qatar Computing Research Institute, and Professor Claudio Cioffi-Revilla from George Mason University to identify active online individual extremists in the US and characterize the psychological and personality correlates of them using language expressed on Twitter. Our list of psychological features includes social relationships, disengagement, emotions, psychological engagement, anxiety, and anger. Moreover, we seek to develop a data-driven extremism lexicon that can be used in future research to identify individual extremists based on the content they post on Twitter.
 
 
 ### Spatial Social Networks
@@ -23,3 +23,8 @@ While the importance of spatial proximity encourages us to consider the geograph
 ### Intergroup Relations and Opinion Dynamics
 
 Often policy makers and analysts are interested in predicting the effect of major events on the macro-level patterns of the public opinion. Intergroup conflict escalation and in-group favoritism are two social processes that get triggered by some social and political events. For example, one might argue that the case of Fergusen Police Shooting trigeered the in-group favoritism mechasnim among African-Americans. Building on the social identity approach to intergroup relations, I examined the effect of intergroup conflict escalation and in-group favoritism on the collective behavior of individuals' opinion and radicalization. Here, I used agent-based models of opinion dynamics to model homophily and rejection mechanism among simple agents.
+
+
+### Geography of Opinion Extremism in the US
+
+
