@@ -34,10 +34,10 @@ While the importance of spatial proximity encourages us to consider the geograph
 Often policy makers and analysts are interested in predicting the effect of major events on the public opinion. Intergroup conflict escalation and in-group favoritism are two social processes that get triggered by some social and political events. For example, one might argue that the case of Fergusen Police Shooting trigeered the in-group favoritism mechasnim among African-Americans. Building on the social identity approach to intergroup relations, I examined the effect of intergroup conflict escalation and in-group favoritism on the collective behavior of individuals' opinion and radicalization. These two projects bring the empirical findings from social psychology and agent-based models of the opinion dynamics tohether to help public opinion policy analysts to get a better understanding of the effect of intergroup conflict escalation and in-group favoritism on the macro-level patterns of indivduals' opinions.
 
 
-<div class="avatar">
-            <img src="https://cloud.githubusercontent.com/assets/5666406/10963052/46aa6fa6-836b-11e5-8b7c-55c71a074b8a.png" />
-            <div align="center">
-</div><!--/avatar -->
+<p align="center">
+  <b>Co-following Network of the US Domestic Extremist Groups on Twitter</b><br>
+  <img src="https://cloud.githubusercontent.com/assets/5666406/10963052/46aa6fa6-836b-11e5-8b7c-55c71a074b8a.png">
+</p>
 
 
 ### Geography of Opinion Extremism in the US
