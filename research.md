@@ -42,7 +42,7 @@ Often policy makers and analysts are interested in predicting the effect of majo
 
 
 
-### Geography of Opinion Extremism in the US
+### Geography of Political Opinion Extremism in the US
 
 I used spatial statistics and Geographical Information Systems (GIS) techniques to study the socio-economic and personality correlates of opinion extremism at the state-level in the US using the 2012 American National Election Study (ANES) time series data. Here, I used the Geographically Weighted Regression model to provide specific local regression estimates for each state with respect to association between opinion extremism and correlates of interest.
 
