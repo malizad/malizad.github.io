@@ -3,6 +3,9 @@ layout: default
 ---
 
 
+My research goal is to combine the three major sub-fields of the Computational Social Science including Social Media Data Analysis, Network Analysis, and Agent-based Modeling to study various social science problems. Below you can find a summary of my past and current projects.
+
+
 ### Identifying and Characterizing US Domestic Ideological Extremists
 
 Since September 11, terrorist attacks by US domestic extremists have killed nearly twice as many people as 
