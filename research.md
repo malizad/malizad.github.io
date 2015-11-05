@@ -16,8 +16,9 @@ approaches. I am collaborating with Professor Michael Macy from Cornell Universi
 
 <div class="avatar">
             <img src="https://cloud.githubusercontent.com/assets/5666406/10962975/719028e2-836a-11e5-8457-3dc1a2ed6120.png" />
-</div><!--/avatar -->
             <div align="center">
+</div><!--/avatar -->
+            
 
 
 
