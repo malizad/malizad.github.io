@@ -35,7 +35,7 @@ Often policy makers and analysts are interested in predicting the effect of majo
 
 
 <p align="center">
-  <b>Co-following Network of the US Domestic Extremist Groups on Twitter</b><br>
+  <b>Social Identity Approach to Intergroup Relations</b><br>
   <img src="https://cloud.githubusercontent.com/assets/5666406/10963052/46aa6fa6-836b-11e5-8b7c-55c71a074b8a.png">
 </p>
 
