@@ -21,9 +21,6 @@ approaches. I am collaborating with Professor Michael Macy from Cornell Universi
             
 
 
-
-
-
 ### Spatial Social Networks
 
 While the importance of spatial proximity encourages us to consider the geographical properties of the individuals into the models, the availability of geo-coded data from social media enables us to validate the results of our computational models. Hence, incorporating the geographical properties of the agents into computational models of social behavior is a promising extension which helps us to analyze the spatial correlates of a given complex behavior. Co-authored with Professor Claudio Cioffi-Revilla and Dr. Andrew Crooks from George Mason University, I have proposed a spatial version of the three well-known network model including the Erdos-Renyi, Watts-Strogatz, and Barabasi-Albert. This project is trying to build a foundation for developing more spatially explicit agent-based models of social applications.
@@ -32,6 +29,12 @@ While the importance of spatial proximity encourages us to consider the geograph
 ### Intergroup Relations and Opinion Dynamics
 
 Often policy makers and analysts are interested in predicting the effect of major events on the public opinion. Intergroup conflict escalation and in-group favoritism are two social processes that get triggered by some social and political events. For example, one might argue that the case of Fergusen Police Shooting trigeered the in-group favoritism mechasnim among African-Americans. Building on the social identity approach to intergroup relations, I examined the effect of intergroup conflict escalation and in-group favoritism on the collective behavior of individuals' opinion and radicalization. These two projects bring the empirical findings from social psychology and agent-based models of the opinion dynamics tohether to help public opinion policy analysts to get a better understanding of the effect of intergroup conflict escalation and in-group favoritism on the macro-level patterns of indivduals' opinions.
+
+
+<div class="avatar">
+            <img src="https://cloud.githubusercontent.com/assets/5666406/10963052/46aa6fa6-836b-11e5-8b7c-55c71a074b8a.png" />
+            <div align="center">
+</div><!--/avatar -->
 
 
 ### Geography of Opinion Extremism in the US
