@@ -2,4 +2,4 @@
 layout: default
 ---
 
-<embed src="https://github.com/malizad/malizad.github.io/files/28614/cv.pdf" width="800px" height="2100px">
+<embed src="https://drive.google.com/file/d/0B2bu9Ts8BcySNWN5RFRTUEZfSzQ/view?usp=sharing" width="800px" height="2100px">
