@@ -3,7 +3,6 @@ layout: default
 title: Short Bio
 ---
 
-### Bio
 
 I am a PhD candidate in [Computational Social Science](http://css.gmu.edu/) program within the Department of Computational and Data Sciences at George Mason University working under Professor [Claudio Cioffi-Revilla](http://css.gmu.edu/node/8?q=node/16) supersivion. Born in Iran in 1985, I received a BS and an MS in Industrial Engineering from Amirkabir University of Technology and an MS in Information Science from the University of Pittsburgh.
 
