@@ -41,6 +41,10 @@ Often policy makers and analysts are interested in predicting the effect of majo
 </p>
 
 
+### Activation Regimes in Opinion Dynamics
+
+Empirical evidences have supported the large heterogeneity in the timing of individuals' activities. Moreover, computational analysis of the agent-based models has shown the importance of the activation regimes. In this project [(Alizadeh & Cioffi-Revilla 2015)](http://jasss.soc.surrey.ac.uk/18/3/8.html), I applied four different asynchronous updating schemes including random, uniform, and two state-driven Poisson updating schemes on an agent-based opinion dynamics model. I compared the effect of these activation regimes by measuring the appropriate opinion clustering statistics and also the number of emergent extremists. The results exhibit both qualitative and quantitative difference between different activation regimes which in some cases are counterintuitive. In particular, I found that exposing the radical/moderate agents to more encounters decreases/increases the average number of extremists compared to other types of activation regimes.
+
 
 ### Geography of Political Opinion Extremism in the US
 
