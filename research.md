@@ -31,7 +31,7 @@ While the importance of spatial proximity encourages us to consider the geograph
 
 
 <p align="center">
-  <b>Co-following Network of the US Domestic Extremist Groups on Twitter</b><br>
+  <b>Connection Probability (P) is Penalized with Distance (d)</b><br>
   <img src="https://cloud.githubusercontent.com/assets/5666406/11014193/37fa0d46-84fa-11e5-9e68-ef151824317b.png">
 </p>
 
