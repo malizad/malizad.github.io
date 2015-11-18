@@ -14,6 +14,14 @@ My research interests focus broadly around opinion dynamics, radicalization, soc
 - MSc, Information Science, University of Pittsburgh, PA, USA, 2010 - 2012.
 - MSc, Industrial Engineering, Amirkabir University of Technology, Tehran, Iran, 2007 - 2009.
 - BSc, Industrial Engineering, Amirkabir University of Technology, Tehran, Iran, 2003 - 2007.
+- 
+#### Academic Positions
+
+- Presidential Scholar, George Mason University, 2013 - present.
+- Visiting Scholar, Qatar Computing Research Institute, Doha, Qatar, July 2015.
+- Visiting Scholar, Social Dynamics Lab, Cornell University, Spring 2015.
+- Research Assistant to Prof. Michael Macy, School of Information Science, University of Pittsburgh, 2010 - 2012.
+- Instructor, Department of Information Systems, University of Maryland Baltimore County, 2009 - 2010.
 
 
 
