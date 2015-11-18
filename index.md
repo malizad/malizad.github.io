@@ -8,6 +8,13 @@ I am a PhD candidate in [Computational Social Science](http://css.gmu.edu/) prog
 
 My research interests focus broadly around opinion dynamics, radicalization, social influence, and intergroup relationships. Methodologically, I integrate innovative information and communication technologies in political science, sociology, and policy analysis to study these interests. More specifically, I use a mix of approaches ranging from agent-based modeling, Big Data analytics, social network and social media analysis, and text as data methods to explore various drivers of social influence, opinion change, and opinion extremism in the society.
 
+### Education
+
+- PhD, Computational Social Science, George Mason University, VA, USA, 2013 - present.
+- MSc, Information Science, University of Pittsburgh, PA, USA, 2010 - 2012.
+- MSc, Industrial Engineering, Amirkabir University of Technology, Tehran, Iran, 2007 - 2009.
+- BSc, Industrial Engineering, Amirkabir University of Technology, Tehran, Iran, 2003 - 2007.
+
 
 
 <a class="twitter-timeline" href="https://twitter.com/M_Aliizadeh" data-widget-id="648084562627661824">Tweets by @M_Aliizadeh</a>
