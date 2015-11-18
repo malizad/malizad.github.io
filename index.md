@@ -8,7 +8,7 @@ I am a PhD candidate in [Computational Social Science](http://css.gmu.edu/) prog
 
 My research interests focus broadly around opinion dynamics, radicalization, social influence, and intergroup relationships. Methodologically, I integrate innovative information and communication technologies in political science, sociology, and policy analysis to study these interests. More specifically, I use a mix of approaches ranging from agent-based modeling, Big Data analytics, social network and social media analysis, and text as data methods to explore various drivers of social influence, opinion change, and opinion extremism in the society.
 
-### Education
+#### Education
 
 - PhD, Computational Social Science, George Mason University, VA, USA, 2013 - present.
 - MSc, Information Science, University of Pittsburgh, PA, USA, 2010 - 2012.
