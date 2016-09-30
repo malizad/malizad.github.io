@@ -9,7 +9,7 @@ My research goal is to combine the three major sub-fields of the Computational S
 
 ### Identifying and Characterizing US Domestic Ideological Extremists
 
-Since September 11, terrorist attacks by US domestic extremists have killed nearly twice as many people as 
+Between 9/11 and 2015, terrorist attacks by US domestic extremists have killed nearly twice as many people as 
 those by Muslim Jihadists. Counter-terrorism strategies demand more systematic study of these homegrown 
 extremists, important policy issues related to them, and ways to address those policy issues by using innovative
 approaches. I am collaborating with Professor [Michael Macy](https://sites.google.com/site/michaelmacy14/home) from Cornell University, Dr. [Ingmar Weber](http://qcri.org.qa/page?a=117&pid=67&lang=en-CA) from Qatar Computing Research Institute, and Professor [Claudio Cioffi-Revilla](http://css.gmu.edu/node/8?q=node/16) from George Mason University to identify active online individual extremists in the US and characterize the psychological and personality correlates of them using language expressed on Twitter. Our list of psychological features includes social relationships, disengagement, emotions, psychological engagement, anxiety, and anger. Moreover, we seek to develop a data-driven extremism lexicon that can be used in future research to identify individual extremists based on the content they post on Twitter.
