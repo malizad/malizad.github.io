@@ -10,7 +10,7 @@ My research interests focus broadly around opinion dynamics, radicalization, soc
 
 #### Academic Positions
 
-- 2016 - present: Post-doc at [CNetS](http://cnets.indiana.edu/)
+- 2016 - present: Post-doc at [CNetS](http://cnets.indiana.edu/) [(Home Page)](http://cnets.indiana.edu/groups/santo-lab/meysam-alizadeh/)
 - 2013 - 2016: Presidential Scholar, George Mason University, VA, USA.
 - 2015 (July): Visiting Scholar, Qatar Computing Research Institute, Doha, Qatar.
 - 2015 (Summer Semester): Research Assistant to Prof. [Claudio Cioffi-Revilla](http://css.gmu.edu/node/8?q=node/16), [Center for Social Complexity](https://socialcomplexity.gmu.edu/), George Mason University, VA, USA.
