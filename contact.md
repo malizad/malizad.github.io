@@ -7,7 +7,7 @@ Informatics East, Room 322C<br>
 919 East 10th St<br>
 Bloomington IN 47408<br>
 
-<p><a href="mailto:malizad2[at]gmu.edu">malizad2@gmu.edu</a><br>
+<p><a href="mailto:malizade[at]indiana.edu">malizade@indiana.edu</a><br>
 
 Phone: +(1) 443-255-8736
 
