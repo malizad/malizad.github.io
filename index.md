@@ -4,7 +4,7 @@ title: Short Bio
 ---
 
 
-I am a post-doctoral fellow in the [Center for Complex Networks and Systems Research](http://cnets.indiana.edu/) within the [School of Informatics and Computing](http://www.soic.indiana.edu/) at [Indiana University Bloomington](https://www.indiana.edu) working under the supervision of Professor [Santo Fortunato](http://cnets.indiana.edu/people/santo-fortunato/).
+I am a post-doctoral fellow at [SantoLab](http://cnets.indiana.edu/groups/santo-lab/) in the [Center for Complex Networks and Systems Research (CNetS)](http://cnets.indiana.edu/) within the [School of Informatics and Computing](http://www.soic.indiana.edu/) at [Indiana University Bloomington](https://www.indiana.edu) working under the supervision of Professor [Santo Fortunato](http://cnets.indiana.edu/people/santo-fortunato/).
 
 My research interests focus broadly around opinion dynamics, radicalization, social influence, and intergroup relationships. Methodologically, I integrate innovative information and communication technologies in political science, sociology, and policy analysis to study these interests. More specifically, I use a mix of approaches ranging from agent-based modeling, Big Data analytics, social network and social media analysis, and text as data methods to explore various drivers of social influence, opinion change, and opinion extremism in the society.
 
