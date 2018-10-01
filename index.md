@@ -4,13 +4,14 @@ title: Short Bio
 ---
 
 
-I am a post-doctoral fellow at [SantoLab](http://cnets.indiana.edu/groups/santo-lab/) in the [Center for Complex Networks and Systems Research (CNetS)](http://cnets.indiana.edu/) within the [School of Informatics and Computing](http://www.soic.indiana.edu/) at [Indiana University Bloomington](https://www.indiana.edu) working under the supervision of Professor [Santo Fortunato](http://cnets.indiana.edu/people/santo-fortunato/).
+I am a post-doctoral research associate at [Empirical Studies of Conflict (ESOC)](https://esoc.princeton.edu) Project within the [Woodrow Wilson School of Public and International Affairs](http://wws.princeton.edu/) at [Princeton University](https://www.princeton.edu) working under the supervision of Professor [Jacob Shapiro](https://scholar.princeton.edu/jns/home).
 
 My research interests focus broadly around opinion dynamics, radicalization, social influence, and intergroup relationships. Methodologically, I integrate innovative information and communication technologies in political science, sociology, and policy analysis to study these interests. More specifically, I use a mix of approaches ranging from agent-based modeling, Big Data analytics, social network and social media analysis, and text as data methods to explore various drivers of social influence, opinion change, and opinion extremism in the society.
 
 #### Academic Positions
 
-- 2016 - present: Post-doc at [CNetS](http://cnets.indiana.edu/) [(Home Page)](http://cnets.indiana.edu/groups/santo-lab/meysam-alizadeh/)
+- 2018 - present: Postdoctoral Research Associate at [ESOC] (https://esoc.princeton.edu)
+- 2016 - 2018: Post-doc at [CNetS](http://cnets.indiana.edu/) [(Home Page)](http://cnets.indiana.edu/groups/santo-lab/meysam-alizadeh/)
 - 2013 - 2016: Presidential Scholar, George Mason University, VA, USA.
 - 2015 (July): Visiting Scholar, Qatar Computing Research Institute, Doha, Qatar.
 - 2015 (Summer Semester): Research Assistant to Prof. [Claudio Cioffi-Revilla](http://css.gmu.edu/node/8?q=node/16), [Center for Social Complexity](https://socialcomplexity.gmu.edu/), George Mason University, VA, USA.
