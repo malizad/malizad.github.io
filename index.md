@@ -10,7 +10,7 @@ My research interests focus broadly around opinion dynamics, radicalization, soc
 
 #### Academic Positions
 
-- 2018 - present: Postdoctoral Research Associate at [ESOC] (https://esoc.princeton.edu)
+- 2018 - present: Postdoctoral Research Associate at [ESOC](https://esoc.princeton.edu), Princeton University, NJ, USA.
 - 2016 - 2018: Post-doc at [CNetS](http://cnets.indiana.edu/), School of Informatics, Indiana University Bloomington, IN, USA.
 - 2013 - 2016: Presidential Scholar, George Mason University, VA, USA.
 - 2015 (July): Visiting Scholar, Qatar Computing Research Institute, Doha, Qatar.
