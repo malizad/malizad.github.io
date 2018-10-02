@@ -4,9 +4,9 @@ title: Short Bio
 ---
 
 
-I am a post-doctoral research associate at [Empirical Studies of Conflict (ESOC)](https://esoc.princeton.edu) Project within the [Woodrow Wilson School of Public and International Affairs](http://wws.princeton.edu/) at [Princeton University](https://www.princeton.edu) working under the supervision of Professor [Jacob Shapiro](https://scholar.princeton.edu/jns/home).
+I am a postdoctoral research associate at the [Empirical Studies of Conflict (ESOC)](https://esoc.princeton.edu) Project within the [Woodrow Wilson School of Public and International Affairs](http://wws.princeton.edu/) at [Princeton University](https://www.princeton.edu). I'm working under the supervision of Professor [Jacob Shapiro](https://scholar.princeton.edu/jns/home).
 
-My research interests focus broadly around opinion dynamics, radicalization, social influence, and intergroup relationships. Methodologically, I integrate innovative information and communication technologies in political science and policy analysis issues. More specifically, I use a mix of approaches including text analysis, Big Data analytics, network analysis, machine learning, and agent-baed modeling to explore various drivers of social influence, emerging security threats, and political extremism.
+My research interests focus broadly around opinion dynamics, radicalization, social influence, and intergroup relationships. Methodologically, I integrate innovative information and communication technologies in political science and policy analysis issues. More specifically, I use a mix of approaches including text analysis, big data analytics, network analysis, machine learning, and agent-baed modeling to explore various drivers of social influence, emerging security threats to democracy, and political extremism.
 
 #### Academic Positions
 
