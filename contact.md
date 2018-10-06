@@ -7,7 +7,7 @@ layout: default
 Woodrow Wilson School of Public and International Affairs<br>
 Princeton, NJ 08544<br>
 
-<p><a href="mailto:alizadeh[at]princeton.edu">malizade@indiana.edu</a><br>
+<p><a href="mailto:alizadeh[at]princeton.edu">alizadeh@princeton.edu</a><br>
 
 Phone: +(1) 443-255-8736
 
