@@ -3,11 +3,11 @@ layout: default
 ---
 
 ### Contact
-Informatics East, Room 322C<br>
-919 East 10th St<br>
-Bloomington IN 47408<br>
+316 Bendheim Hall<br>
+Woodrow Wilson School of Public and International Affairs<br>
+Princeton, NJ 08544<br>
 
-<p><a href="mailto:malizade[at]indiana.edu">malizade@indiana.edu</a><br>
+<p><a href="mailto:alizadeh[at]princeton.edu">malizade@indiana.edu</a><br>
 
 Phone: +(1) 443-255-8736
 
