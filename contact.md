@@ -3,7 +3,7 @@ layout: default
 ---
 
 ### Contact
-316 Bendheim Hall<br>
+323 Bendheim Hall<br>
 Woodrow Wilson School of Public and International Affairs<br>
 Princeton, NJ 08544<br>
 
