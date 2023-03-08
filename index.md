@@ -10,7 +10,7 @@ My research interests focus broadly around framing theory, information operation
 
 #### Previous Academic Positions
 
-- 2020 - 2021: Data Science Fellow, Shorenstein Center on Media, Politics, and Public Policy, Harvard Kennedy School, Harvard University, MA, USA.
+- 2020 - 2021: Data Science Fellow, Shorenstein Center on Media, Politics, and Public Policy, Harvard University, MA, USA.
 - 2018 - 2020: Postdoctoral Research Associate at [ESOC](https://esoc.princeton.edu), Princeton University, NJ, USA.
 - 2016 - 2018: Post-doc at [CNetS](http://cnets.indiana.edu/), School of Informatics, Indiana University Bloomington, IN, USA.
 - 2013 - 2016: Presidential Scholar, George Mason University, VA, USA.
