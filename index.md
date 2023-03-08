@@ -4,7 +4,7 @@ title: Short Bio
 ---
 
 
-I am a senior researcher at the [Digital Democracy Lab]([https://esoc.princeton.edu](https://digdemlab.io/)) within the [Department of Political Science](https://www.ipz.uzh.ch/en.html) at the [University of Zurich](https://www.uzh.ch). I'm working under the supervision of Professor [Fabrizio Gilardi](https://www.ipz.uzh.ch/en/institut/mitarbeitende/staff/gilardi.html).
+I am a senior researcher at the [Digital Democracy Lab](https://digdemlab.io/) within the [Department of Political Science](https://www.ipz.uzh.ch/en.html) at the [University of Zurich](https://www.uzh.ch). I'm working under the supervision of Professor [Fabrizio Gilardi](https://www.ipz.uzh.ch/en/institut/mitarbeitende/staff/gilardi.html).
 
 My research interests focus broadly around framing theory, information operations, opinion dynamics, social influence, and intergroup relationships. Methodologically, I integrate innovative information and communication technologies in political science and policy analysis issues. More specifically, I use a mix of approaches including text-as-data methods, causal inference, machine learning, network analysis, and agent-baed modeling to explore various drivers of social influence, emerging security threats to democracy, and political extremism.
 
