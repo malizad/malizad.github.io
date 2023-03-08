@@ -4,13 +4,14 @@ title: Short Bio
 ---
 
 
-I am a postdoc at the [Empirical Studies of Conflict (ESOC)](https://esoc.princeton.edu) Project within the [Woodrow Wilson School of Public and International Affairs](http://wws.princeton.edu/) at [Princeton University](https://www.princeton.edu). I'm working under the supervision of Professor [Jacob Shapiro](https://scholar.princeton.edu/jns/home).
+I am a senior researcher at the [Digital Democracy Lab]([https://esoc.princeton.edu](https://digdemlab.io/)) within the [Department of Political Science](https://www.ipz.uzh.ch/en.html) at the [University of Zurich](https://www.uzh.ch). I'm working under the supervision of Professor [Fabrizio Gilardi](https://www.ipz.uzh.ch/en/institut/mitarbeitende/staff/gilardi.html).
 
-My research interests focus broadly around opinion dynamics, radicalization, social influence, and intergroup relationships. Methodologically, I integrate innovative information and communication technologies in political science and policy analysis issues. More specifically, I use a mix of approaches including text analysis, big data analytics, network analysis, machine learning, and agent-baed modeling to explore various drivers of social influence, emerging security threats to democracy, and political extremism.
+My research interests focus broadly around framing theory, information operations, opinion dynamics, social influence, and intergroup relationships. Methodologically, I integrate innovative information and communication technologies in political science and policy analysis issues. More specifically, I use a mix of approaches including text-as-data methods, causal inference, machine learning, network analysis, and agent-baed modeling to explore various drivers of social influence, emerging security threats to democracy, and political extremism.
 
-#### Academic Positions
+#### Previous Academic Positions
 
-- 2018 - present: Postdoctoral Research Associate at [ESOC](https://esoc.princeton.edu), Princeton University, NJ, USA.
+- 2020 - 2021: Data Science Fellow, Shorenstein Center on Media, Politics, and Public Policy, Harvard Kennedy School, Harvard University, MA, USA.
+- 2018 - 2020: Postdoctoral Research Associate at [ESOC](https://esoc.princeton.edu), Princeton University, NJ, USA.
 - 2016 - 2018: Post-doc at [CNetS](http://cnets.indiana.edu/), School of Informatics, Indiana University Bloomington, IN, USA.
 - 2013 - 2016: Presidential Scholar, George Mason University, VA, USA.
 - 2015 (July): Visiting Scholar, Qatar Computing Research Institute, Doha, Qatar.
